@@ -1,2 +1,2 @@
 # streamlit-chatbot
-$ pip install streamlit_chat 
+$ pip3 install streamlit_chat 
